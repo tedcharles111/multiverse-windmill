@@ -1,0 +1,3 @@
+FROM ghcr.io/windmill-labs/windmill:latest
+ENV DATABASE_URL=postgres://...
+EXPOSE 8000

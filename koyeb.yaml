@@ -1,0 +1,6 @@
+name: windmill
+type: web
+dockerfile: Dockerfile
+routes:
+  - path: /
+    port: 8000
